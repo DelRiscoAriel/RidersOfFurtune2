@@ -1,4 +1,4 @@
-# Riders Of Furtune2: Dungeon Escape
+# Riders Of Furtune 2: Dungeon Escape
 Text-based fantasy style board game done in C++.
 
 Yarra's adventure continues, this time Yarra is trying to escape from a Dungeon.
